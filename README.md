@@ -2,6 +2,10 @@
 
 A responsive personal portfolio website showcasing my technical skills, projects, education, certifications, and achievements.
 
+## 🌐 Live Website
+
+[View My Portfolio](https://personal-portfolio-five-orpin.vercel.app/)
+
 ## About
 
 This portfolio represents my profile as an MCA student and aspiring software developer. It provides an overview of my academic background, technical skills, projects, and certifications.
@@ -20,6 +24,12 @@ This portfolio represents my profile as an MCA student and aspiring software dev
 - Smooth navigation
 
 ## Projects
+
+### Personal Portfolio Website
+
+A responsive portfolio website showcasing my projects, technical skills, education, certifications, and achievements.
+
+**Technologies:** HTML, CSS, JavaScript, Bootstrap
 
 ### Insight Explorer
 
